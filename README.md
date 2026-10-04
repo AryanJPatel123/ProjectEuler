@@ -5,8 +5,6 @@
 
 My solutions to the [Project Euler](https://projecteuler.net/) problems, written in Python.
 
-> Project Euler is a series of challenging mathematical and computer programming problems that need more than mathematical insight to solve.
-
 ## 📈 Progress
 
 - **Problems solved (with solutions here):**
