@@ -1,7 +1,6 @@
 # Project Euler Solutions
 
 ![Python](https://img.shields.io/badge/python-3.x-blue?logo=python&logoColor=white)
-![Solved](https://img.shields.io/badge/solved-<N>-brightgreen)
 
 My solutions to the [Project Euler](https://projecteuler.net/) problems, written in Python.
 
